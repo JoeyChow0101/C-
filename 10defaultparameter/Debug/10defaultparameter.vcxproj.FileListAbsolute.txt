@@ -1,0 +1,2 @@
+D:\Joey\c++\10defaultparameter\Debug\10defaultparameter.exe
+D:\Joey\c++\10defaultparameter\Debug\10defaultparameter.pdb
