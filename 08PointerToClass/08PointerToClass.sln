@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "08PointerTpClassTest", "08PointerTpClassTest.vcxproj", "{A267DC21-6B46-4B93-840B-0C8AAAAED02C}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "08PointerToClass", "08PointerToClassTest.vcxproj", "{A267DC21-6B46-4B93-840B-0C8AAAAED02C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -26,6 +26,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {04A4CE15-8389-4951-9CCF-4DDF023ABB6A}
+		SolutionGuid = {8AF39AAD-6C7E-4041-BF04-87E2E332103F}
 	EndGlobalSection
 EndGlobal
