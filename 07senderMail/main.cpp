@@ -42,6 +42,5 @@ int main()
 	Mail mail("meeting", "AR REVIEW", "2024/10/23");
 	Mail mail1("cancel meeting", "layoff", "2024/10/24");
 	sender << mail << mail1;
-	mail >> mail1 >> sender;
 	return 0;
 }
